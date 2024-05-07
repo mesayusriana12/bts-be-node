@@ -1,6 +1,6 @@
 # BTS.id Backend Test Node.js
 
-This is a test for the backend developer position at Orderfaz. The test is to create a RESTful API using Node.js and Express.js.
+This is a test for the backend developer position at BTS.id. The test is to create a RESTful API using Node.js and Express.js.
 
 ## Technologies
 
